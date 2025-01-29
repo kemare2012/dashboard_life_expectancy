@@ -3,11 +3,11 @@ title: "Visualizing Global Life Expectancy in 2027"
 logo: fixed.jpg
 format: 
   dashboard:
+    embed-resources: true  
     nav-buttons: [linkedin, twitter, facebook, instagram]
 theme: 
   - materia  
 
-embed-resources: true  
 
 resources:
   - fixed.jpg
